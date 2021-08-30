@@ -24,7 +24,7 @@ def setup(
     one mandatory parameter only: ``data``. All the other parameters are optional.
 
 
-    Example
+    Example***
     -------
     >>> from pycaret.datasets import get_data
     >>> kiva = get_data('kiva')
